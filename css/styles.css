@@ -138,6 +138,11 @@ body{
   width: 582px;
   height: 60px;
 }
+.first__section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .first_section__buttons {
   display: flex;
   align-items: center;
